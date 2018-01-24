@@ -21,6 +21,9 @@
                 android:layout_height="60dp"
                 stv:sLeftIconRes="@drawable/head_default"
                 stv:sLeftTextString="帐号管理"
+                stv:sUseRipple="true"
+                stv:sShapeSolidColor="@color/white"
+                stv:sShapeSelectorNormalColor="@color/white"
                 stv:sRightIconRes="@drawable/arrow_right_red" />
 
             <com.allen.library.SuperTextView

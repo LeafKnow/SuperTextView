@@ -65,7 +65,6 @@ public class TypeActivity extends AppCompatActivity {
         superTextView2 = (SuperTextView) findViewById(R.id.super_tv2);
         superTextView3 = (SuperTextView) findViewById(R.id.super_tv3);
         alipayStv = (SuperTextView) findViewById(R.id.alipay_stv);
-
         String url1 = "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3860616424,1789830124&fm=80&w=179&h=119&img.PNG";
         String url2 = "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=219781665,3032880226&fm=80&w=179&h=119&img.JPEG";
         String url3 = "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3860616424,1789830124&fm=80&w=179&h=119&img.PNG";
